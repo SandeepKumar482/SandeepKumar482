@@ -22,6 +22,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SandeepKumar482&icon=0&color=9)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=SandeepKumar42&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
